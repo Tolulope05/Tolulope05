@@ -1,16 +1,19 @@
-> 👋 Hi, **I’m Tolulope Fakunle** 
+> #### Tolulope Fakunle 
+> 
 > 👀 I’m interested in collaboration, learning and partnership 
-
-> 🌱 I’m currently learning
->> **▪︎Web Developing and design ▪︎Programming and lifestyle 👨‍💻 ▪︎Fullstack Developer ▪︎Graphics Designs ▪︎Web App || iOS || Android || Softwares**
-
-> 💞️ I’m looking to collaborate on any and all of the listed learning(learnt) information provided 
+>
+>  :memo: **Note:** We offer the following services:
+>> - Web Designs/Dev
+>> - Fullstack Development 
+>> - Graphics Designs 
+>> - Web App || iOS || Android || Softwares
+>
 > 📫 How to reach me:
->> +2348132738316(whatsapp) 
->> FakunleTolu (Twitter)
->> tolucoder (Instagram)
-
-> 🔗 www.tolutech.com
+>> - +2348132738316\. (call/whatsapp) 
+>> - FakunleTolu\. (Twitter)
+>> - tolucoder\. (Instagram)
+>
+>  :bulb: **Tip:** **[Remember to visit us](www.tolutech.com)**
 <!---
 Tolulope05/Tolulope05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
