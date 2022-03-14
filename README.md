@@ -61,9 +61,9 @@
       </p>
 
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=light&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Tolulope Fakunle's github stats" />
 
-| <a href="https://github.com/Tolulope05"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Tolulope Fakunle's github stats" /></a> | <a href="https://github.com/Tolulope05"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
 <!---
 Tolulope05/Tolulope05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
