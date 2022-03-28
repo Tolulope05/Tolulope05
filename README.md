@@ -1,6 +1,6 @@
 > #### <h1>Tolulope Fakunle </h1>
 > 
-> Full Stach Developer || UI & UX Designer
+> Full Stack Developer || Software Engineer || UI & UX Designer
 >
 ><h3 align="left">Connect with me:</h3>
 ><p align="left">
