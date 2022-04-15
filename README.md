@@ -1,4 +1,7 @@
 > #### <h1>Tolulope Fakunle </h1>
+
+> I feel honoured you are viewing my profile :)
+> 
 > 
 > Full Stack Developer || Software Engineer || UI & UX Designer
 >
