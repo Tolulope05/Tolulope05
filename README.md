@@ -10,7 +10,7 @@
 > 
 > - 🤔 I’m looking for **Remote jobs related to my skillset**
 >
-> - 💬 Ask me about anything Full Stack , I would be glad to answer you.
+> - 💬 Ask me about anything Full Stack Developement, I would be glad to answer you.
 >
 > - 📫 **How to reach me **fakunletolulope05@gmail.com****
 > 
