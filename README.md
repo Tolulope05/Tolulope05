@@ -2,7 +2,7 @@
 > <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 >
 > <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I've been waiting for you</h1>
-> <h3 align="center"> I'm a full stack engineer, I have serious passion for UI effects, animations, creating intuitive and dynamic users experience.</h3>
+> <h3 align="center"> I'm a Full Stack Web and Mobile App Developer, I have serious passion for UI effects, animations, creating intuitive and dynamic users experience.</h3>
 >
 > ## 🙋‍♂️ About Me
 >
@@ -102,7 +102,4 @@
 <!---
 Tolulope05/Tolulope05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Hello, I'm Tolulope Fakunle.
-I'm a full stack engineer, I have serious passion for UI effects, animation and creating intuitive, dynamic users experience.
-If not solving problems or doing hard things, you can find me modeling new creations and learning new things.
 --->
