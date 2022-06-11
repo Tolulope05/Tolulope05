@@ -89,7 +89,7 @@
 
 <br/>
 
-## ❤ Views and Followers
+## ❤ Views and Followers.
 
 
 <a href="https://github.com/Tolulope05/github-profile-views-counter">
