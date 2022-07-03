@@ -6,7 +6,7 @@
 >
 > ## 🙋‍♂️ About Me
 >
-> - 🔭 I’m a Full Stack Developer || Software Engineer || UI & UX Designer
+> - 🔭 I’m a Full Stack Web & Mobile app Developer || Software Engineer || UI & UX Designer
 > 
 > - 🤔 I’m looking for **Remote jobs related to my skillset**
 >
