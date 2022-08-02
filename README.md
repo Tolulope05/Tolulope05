@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React & Dart**
 
-- 💬 Ask me about **Web and Mobile App Dev**
+- 💬 Ask me about **Web and Cross platform Mobile App Development**
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
