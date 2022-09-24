@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Projects in Flutter and Dart**
 
-- 🌱 I’m currently learning **React & Dart**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Web and Cross platform Mobile App Development**
+- 💬 Ask me about **Cross platform Mobile App Development**
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
