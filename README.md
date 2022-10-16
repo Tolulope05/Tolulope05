@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Projects with Flutter, Dart and Python[Django]**
 
-- 🌱 I’m currently learning **Dynamic Programming**
+- 🌱 I’m also learning **Dynamic Programming**
 
 - 💬 Ask me about **Cross platform Mobile App Development**
 
