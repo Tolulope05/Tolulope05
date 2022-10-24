@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
-- ⚡ Fun fact **I am a student of the ALX Software Engineering Programme**
+- ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme**
 
 - 🔭 I'm a member of **Google Developer Group and am open to work.**
  
