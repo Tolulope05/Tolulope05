@@ -12,7 +12,7 @@
 
 - 🌱 I’m also learning **Dynamic Programming**
 
-- 💬 You can ask me about **Cross platform Mobile App Development**
+- 💬 You can ask me about **Cross-platform Mobile App Development**
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
