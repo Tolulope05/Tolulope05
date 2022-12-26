@@ -48,7 +48,7 @@ Name | Badges
 
 ✅ Meet tight deadlines
 
-✅ Good communication skills.
+✅ Good communication skills
 
 <hr>
 
