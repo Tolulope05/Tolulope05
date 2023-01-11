@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
-- 🔭 I’m currently working on **Projects with Flutter, Dart and Python[Django]**
+- 🔭 I’m currently working on **Projects with Flutter, Dart and Python Django**
 
 - 🌱 I’m also learning **Dynamic Programming**
 
