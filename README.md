@@ -25,8 +25,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunletolulope05)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucoder)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucodes)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/) -->
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2TH9k3DtCjwPUovh-Sb-Qg)
 
 ### 🛠 Tools and Frameworks used
@@ -72,7 +72,7 @@ Name | Badges
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
-> <a href="https://github.com/Tolulope05/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- > <a href="https://github.com/Tolulope05/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
