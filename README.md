@@ -50,6 +50,8 @@ Name | Badges
 
 ✅ Good communication skills
 
+✅ Agile Developement process
+
 <hr>
 
 ## ❤ Views and Followers.
