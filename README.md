@@ -1,7 +1,7 @@
 
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Tolulope Fakunle</h1>
-<h3 align="center">An Expert Software Engineer from Nigeria</h3>
+<h3 align="center">An Expert Flutter Developer</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
