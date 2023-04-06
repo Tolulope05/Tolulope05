@@ -42,7 +42,7 @@ Name | Badges
 
 <hr>
 
-### 👔 Soft skills
+### 👔 Soft skills.
 
 ✅ Work collaboratively in a team
 
