@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Projects with Flutter and NodeJS**
 
-- 🌱 I’m also learning **Domain Driven Programming**
+- 🌱 I’m also learning **Python Programming**
 
 - 💬 You can ask me about **Flutter Mobile App Development**
 
