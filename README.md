@@ -12,7 +12,7 @@
 
 - 🌱 I’m also learning **Python Programming**
 
-- 💬 You can ask me about **Flutter Mobile App Development**
+- 💬 You can ask me about **Flutter Development**
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
