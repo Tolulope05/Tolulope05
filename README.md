@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
-- ⚡ Fun fact **I'm a graduate of ALX Software Engineering Programme**
+- ⚡ Fun fact **I'm a graduate of ALX Software Engineering Programme Cohort 5**
 
 - 🔭 I'm a member of **Google Developer Group, Benin City**
  
