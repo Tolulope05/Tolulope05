@@ -44,13 +44,17 @@ Name | Badges
 
 ### 👔 Soft skills.
 
-✅ Work collaboratively in a team
+✅ Cross-platform development skills
 
-✅ Meet tight deadlines
+✅ Creativity
 
 ✅ Good communication skills
 
-✅ Agile Developement process
+✅ Problem solving
+
+✅ Teamwork
+
+✅ Back-end computing
 
 <hr>
 
