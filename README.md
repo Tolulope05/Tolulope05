@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm a graduate of ALX Software Engineering Cohort 5**
 
-- 🔭 I'm a member of **Google Developer Group, Benin City**
+- 🔭 I'm a member of **Google Developer Group, Benin City, Edo State**
  
  ## 🔗 Links:
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)
