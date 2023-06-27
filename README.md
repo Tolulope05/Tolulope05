@@ -1,35 +1,35 @@
 
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Hi 👋, I'm Tolulope Fakunle</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria.</h3>
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<h1 align="center">Tolulope Fakunle Github Profile</h1>
+<h3 align="center">Experienced Flutter and NodeJS Developer</h3>
+<img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
 
 <p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
-- 🔭 I’m currently working on **Projects in Flutter and Dart**
+- 🔭 I’m working on **Projects with Flutter and NodeJS**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m also learning **Python Programming**
 
-- 💬 Ask me about **Cross platform Mobile App Development**
+- 💬 You can ask me about **Flutter and NODEJS**
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
-- ⚡ Fun fact **I am a student of the ALX Software Engineering Programme**
+- ⚡ Fun fact **I'm a graduate of ALX Software Engineering Cohort 5**
 
-- 🔭 I'm a member of Google Developer Group and am open to work.
+- 🔭 I'm a member of **Google Developer Group, Benin City, Edo State**
  
- ## 🔗 Links
+ ## 🔗 Links:
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunletolulope05)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucoder)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucodes)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/) -->
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2TH9k3DtCjwPUovh-Sb-Qg)
 
-### 🛠 Tools and Framework
+### 🛠 Tool and Framework
 
 Name | Badges
 --- | --- 
@@ -42,13 +42,19 @@ Name | Badges
 
 <hr>
 
-### 👔 Soft skills
+### 👔 Soft skills.
 
-✅ Work collaboratively in a team
+✅ Cross-platform development skills
 
-✅ Meet tight deadlines
+✅ Creativity
 
-✅ Good communication skills.
+✅ Good communication skills
+
+✅ Problem solving
+
+✅ Teamwork
+
+✅ Back-end computing
 
 <hr>
 
@@ -65,14 +71,14 @@ Name | Badges
  
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Tolulope Fakunle's github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&locale=en&theme=onedark" alt="Tolulope-5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulope05&theme=dark" alt="Tolulope05" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+ <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
 
 
-> <a href="https://github.com/Tolulope05/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- > <a href="https://github.com/Tolulope05/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
