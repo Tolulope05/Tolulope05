@@ -50,7 +50,7 @@ Name | Badges
 
 ✅ Good communication skills
 
-✅ Problem solving
+✅ Problem-solving
 
 ✅ Teamwork
 
@@ -71,11 +71,11 @@ Name | Badges
  
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=false" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&locale=en&theme=onedark" alt="Tolulope-5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&locale=en&theme=onedark" alt="Tolulope05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulope05&theme=dark" alt="Tolulope05" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level, Thank you.
+ <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
 
 
 <!-- > <a href="https://github.com/Tolulope05/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
