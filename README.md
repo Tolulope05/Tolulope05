@@ -56,6 +56,8 @@ Name | Badges
 
 ✅ Back-end computing
 
+✅ Professionalism 
+
 <hr>
 
 ## ❤ Views and Followers.
