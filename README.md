@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
 
-- 🔭 I’m working on **Projects with Flutter and NodeJS**
+- 🔭 I’m working on **Projects with Flutter and Java**
 
-- 🌱 I’m also learning **Python Programming**
-
-- 💬 You can ask me about **Flutter and NODEJS**
+- 💬 You can ask me about **Flutter and Java**
 
 - 📫 How to reach me **fakunletolulope05@gmail.com**
 
@@ -22,11 +20,11 @@
  
  ## 🔗 Links:
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolulopefakunle/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/4clrdv)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunletolulope05)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucodes)
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolucoder.herokuapp.com/) -->
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realtolulopefakunle)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://tolulopefakunle.com/) -->
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2TH9k3DtCjwPUovh-Sb-Qg)
 
 ### 🛠 Tool and Framework
